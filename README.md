@@ -14,7 +14,8 @@ This **HR Metrics Dashboard** provides **data-driven insights** into key HR anal
 📂 **[Download HR_Metrics_Dashboard.pbix](./HR_Metrics_Dashboard.pbix)** 
 
 🖼 **Dashboard Screenshot:**  
-![HR_Metrics_Dashboard.jpg]
+![Dashboard Screenshot](./HR_Metrics_Dashboard.jpg)
+
 ---
 
 ## **📌 Data & Tools Used**
