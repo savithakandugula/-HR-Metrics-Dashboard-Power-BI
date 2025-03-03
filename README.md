@@ -11,8 +11,9 @@ This **HR Metrics Dashboard** provides **data-driven insights** into key HR anal
 ---
 
 ## **📊 Dashboard Preview**
-📌 **Screenshot of the Dashboard:**  
-(Upload the final Power BI dashboard screenshot here)
+**HR_Metrics_Dashboard.pbix**
+📌 **HR_Metrics_Dashboard.jpg**  
+
 
 ---
 
